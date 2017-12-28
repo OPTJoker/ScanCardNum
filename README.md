@@ -7,5 +7,5 @@
 
 有问题随时联系：QQ: 494058733
 
-效果图：
-![效果图1](effect1.png)      ![效果图2](effect2.png)
+效果图：<br>
+&nbsp;&nbsp;&nbsp;&nbsp;![图1](effect1.png)  &nbsp;&nbsp;&nbsp;&nbsp; ![图2](effect2.png)
